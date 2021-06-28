@@ -21,9 +21,13 @@ Entonces para solventar este problema de aprendizaje para los alumnos y dudas de
 
 -	Usar el comando:  `composer install`
 
+-   Usar el comando `npm install`
+
+-   Usar el comando `npm run dev`
+
 -	Crear archivo de variables de entorno: cp .env.example .env
 
--	Creamos una base de datos con el nombre `laravel`
+-	Creamos una base de datos con el nombre `_blog`
 
 -	Crear llave:   `php artisan key:generate`
 
@@ -31,6 +35,6 @@ Entonces para solventar este problema de aprendizaje para los alumnos y dudas de
 
 -	Comando: `php artisan migrate --seed`
 
-- Colocar en el buscado la siguiente URL o abrir el proyecto como `laravel.test`
+- Colocar en el navegador la URL para abrir el proyecto
 
 
