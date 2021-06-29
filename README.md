@@ -35,10 +35,17 @@ Entonces para solventar este problema de aprendizaje para los alumnos y dudas de
 
 -	Comando: `php artisan migrate --seed`
 
-### Nota, al momento de crear las migraciones e iniciar sesión, se creara el usaurio: `admin@gmail.com` y password: `12345678` 
+### Nota, al momento de crear las migraciones e iniciar sesión, se creara el...
+- usaurio: `admin@gmail.com` y password: `12345678` 
 
-- Colocar en el navegador la URL para abrir el proyecto, por ejemplo : `http://localhost:8080/laravel_blog/public/`  o  `http://localhost/laravel_blog/public/`  
+- Colocar en el navegador la URL para abrir el proyecto, por ejemplo : `http://localhost:8080/laravel_blog/public/`  o  `http://localhost/laravel_blog/public/`  | `http://laravel_blog.test`
 
 - Fin de la instalación
+
+### Nota
+
+Si al momento de entrar la página aparece texto blanco con fondo bacio, es normal, ya que laravel por alguna razon no muestra el color de fondo por defecto respecto a los seeders y factories, pero si creamos posts estos si mostraran el fondo que se añada a dicho post y para ver los posts publicados, asegurese de marcar la opción `Publicado` al momento de crear un post 
+
+
 
 
