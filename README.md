@@ -37,4 +37,6 @@ Entonces para solventar este problema de aprendizaje para los alumnos y dudas de
 
 - Colocar en el navegador la URL para abrir el proyecto
 
+- Fin de la instalación
+
 
