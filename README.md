@@ -35,7 +35,9 @@ Entonces para solventar este problema de aprendizaje para los alumnos y dudas de
 
 -	Comando: `php artisan migrate --seed`
 
-- Colocar en el navegador la URL para abrir el proyecto
+### Nota, al momento de crear las migraciones e iniciar sesión, se creara el usaurio: `admin@gmail.com` y password: `12345678` 
+
+- Colocar en el navegador la URL para abrir el proyecto, por ejemplo : `http://localhost:8080/laravel_blog/public/`  o  `http://localhost/laravel_blog/public/`  
 
 - Fin de la instalación
 
